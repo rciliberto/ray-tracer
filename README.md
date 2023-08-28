@@ -1,7 +1,7 @@
 # Ray Tracer
 A ray-tracing engine written by Robby Ciliberto in C# / .NET 7 for CS 5360 Non-Interactive Computer Graphics At Northeastern University.
 
-Additional resources used to assist in the creation of this project include [Ray Tracing in One Weekend](https://raytracing.github.io) by Peter Shirley and ScratchAPixel's [Ray Tracing Minibooks](https://www.scratchapixel.com/index.html).
+Additional resources used to assist in the creation of this project include the [Ray Tracing in One Weekend](https://raytracing.github.io) series of books by Peter Shirley and ScratchAPixel's [Ray Tracing Minibooks](https://www.scratchapixel.com/index.html).
 
 ## Video
 [![Multithreading and Octree Optimization in a Ray Tracer](https://img.youtube.com/vi/mH4jevXVyGM/0.jpg)](https://www.youtube.com/watch?v=mH4jevXVyGM "Multithreading and Octree Optimization in a Ray Tracer")
