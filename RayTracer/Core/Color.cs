@@ -9,7 +9,6 @@ public readonly partial struct Color
     /// <summary>
     ///     The red value of the <see cref="Color" />.
     /// </summary>
-    /// f
     public double R { get; }
 
     /// <summary>
